@@ -19,7 +19,7 @@ public class EmployeeServiceImpl implements EmployeeService{
     @Autowired
     public EmployeeServiceImpl(EmployeeDAO theEmployeeDAO){
         employeeDAO=theEmployeeDAO;
-    }//BURASI CONSTRUCTOR ENJEKSİYON KISMI TAM ANLAMADIM AMA ÖĞRENİCEM
+    }//BURASI CONSTRUCTOR ENJEKSİYON KISMI 
 
 
 
